@@ -1,0 +1,62 @@
+.form-heading,.footer-inf0{
+    color:white;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    
+}
+ .container{
+    width: 746px;
+    height: 580px;
+    padding-left: 192px;
+    margin-right: -148px;
+    margin-left: 251px;
+    background-color: hwb(195 0% 0% / 0.676);
+  
+
+}
+.center-allignment
+{
+    
+        background-color: white;
+        border: 1px solid black;
+        width: 516px;
+        padding-left: 20px;
+    }
+
+ .form-heading{
+   
+    margin-left: 145px;
+    padding-bottom: -14px;
+    padding-top: 16px;
+    font-size: 20px;
+  
+} 
+.email-info{
+    margin:200px;
+}
+.name-details{
+    width: 212px;
+    padding-bottom: 6px;
+    margin-top: -16px;
+}
+.email-details{
+    width: 212px;
+    padding-bottom: 6px;
+    margin-top: -16px;
+    margin-left: 15px;
+}
+.btn-info{
+    width: 126px;
+    height: 25px;
+    background-color:deepskyblue ;
+    color: white;
+}
+
+.footer-inf0{
+    padding-top: 12px;
+    padding-left: 33px;
+}
+span{
+    color:black;
+}
